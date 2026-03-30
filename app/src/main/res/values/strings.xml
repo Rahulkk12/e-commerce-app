@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StartupMentor</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google_sign_in">Continue with Google</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="startup_stage">Startup Stage</string>
+    <string name="terms_and_conditions">I agree to the Terms and Conditions</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <!-- Onboarding -->
+    <string name="find_mentors">Find Mentors</string>
+    <string name="find_mentors_desc">Connect with industry experts who have built and scaled successful startups.</string>
+    <string name="book_sessions">Book Sessions</string>
+    <string name="book_sessions_desc">Schedule 1-on-1 video calls to solve your business challenges.</string>
+    <string name="grow_startup">Grow Your Startup</string>
+    <string name="grow_startup_desc">Get personalized advice on fundraising, product, and marketing strategy.</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="mentors">Mentors</string>
+    <string name="sessions">Sessions</string>
+    <string name="profile">Profile</string>
+
+    <!-- Home -->
+    <string name="good_morning">Good Morning, %s!</string>
+    <string name="featured_mentors">Featured Mentors</string>
+    <string name="upcoming_sessions">Upcoming Sessions</string>
+    <string name="categories">Categories</string>
+    <string name="tip_of_the_day">Tip of the Day</string>
+    <string name="book_now">Book</string>
+
+    <!-- Categories -->
+    <string name="tech">Tech</string>
+    <string name="marketing">Marketing</string>
+    <string name="finance">Finance</string>
+    <string name="legal">Legal</string>
+    <string name="product">Product</string>
+    <string name="sales">Sales</string>
+
+    <!-- Mentors -->
+    <string name="all">All</string>
+    <string name="view_profile">View Profile</string>
+    <string name="available">Available</string>
+    <string name="busy">Busy</string>
+
+    <!-- Mentor Detail -->
+    <string name="about_mentor">About Mentor</string>
+    <string name="expertise">Expertise</string>
+    <string name="select_session_duration">Select Session Duration</string>
+    <string name="min_30">30 min</string>
+    <string name="min_60">60 min</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="book_session_button">Book Session</string>
+    <string name="booking_confirmation">Confirm Booking?</string>
+    <string name="booking_message">Do you want to book a %s session with %s on %s at %s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Sessions -->
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past</string>
+    <string name="no_sessions">No sessions found</string>
+    <string name="join_meeting">Join Meeting</string>
+    <string name="leave_review">Leave Review</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="completed">Completed</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy_settings">Privacy Settings</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="rate_the_app">Rate the App</string>
+    <string name="logout">Logout</string>
+    <string name="hours">Hours</string>
+</resources>

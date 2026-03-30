@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="startup_stages">
+        <item>Idea</item>
+        <item>MVP</item>
+        <item>Growth</item>
+        <item>Scale</item>
+    </string-array>
+</resources>
